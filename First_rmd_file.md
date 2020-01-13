@@ -66,4 +66,3 @@ Not scary
 
 [This is a link to GitHub](https://github.com/) ![This is an image of a
 puppy](http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg)
-a
